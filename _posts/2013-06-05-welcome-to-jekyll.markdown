@@ -1,24 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2013-06-05 17:06:25
-categories: jekyll update
+title:  "Tor Relays"
+date:   2015-14-12 12:06:25
+categories: tor
 ---
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+I'm currently operating 1 entry relay, 2 exit nodes and 4 bridges.
 
-Jekyll also offers powerful support for code snippets:
+[Occultum1 - $7D442AD17726CE7C7C72206AADF5445F57AD60D9](https://globe.torproject.org/#/relay/7D442AD17726CE7C7C72206AADF5445F57AD60D9)
+[Occultum2 - $B354405C65BAA9A7626461BCAD2A22AE54605A92](https://globe.torproject.org/#/relay/B354405C65BAA9A7626461BCAD2A22AE54605A92)
+[Occultum3 - $](https://globe.torproject.org/#/relay/)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+My bridges must, of course, remain a secret. That's the whole point of bridges, afterall.
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
+If you have any questions or complaints, please send me an email at: ![enter image description here](https://raw.githubusercontent.com/glvn/glvn.github.io/master/email.png)
 
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+Before you send any complaints though, please read the following page: [This is a Tor Exit Router](http://176.123.29.69/)
